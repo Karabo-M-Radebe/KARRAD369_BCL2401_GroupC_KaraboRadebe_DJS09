@@ -1,13 +1,30 @@
 # DJS09: Couch Surfing | Typescript Practice
 
-## Challenge Overview
 
-Are you ready to get stuck into some Typescript? For this challenge, you are required to code along with the lecturer from this lesson:  Couch Surfing Website
+# Project Overview
+The focus for this project will be to understand the concepts around a JavaScript superset like Typescript and to get a feel for how it works.
 
-For this challenge you are required to code along with the lecturer from this lesson: Learn Typescript Tutorial
+# Project Brief
+For this challenge I was required to code along with the lecturer from this lesson: Learn Typescript Tutorial on Scrimba
 
-The focus for this project will be to understand the concepts around a JavaScript superset like Typescript and to get a feel for how it works. You will need to submit the finished Couch Surfing Website as your DJS09 Submission. 
+I needed to submit the finished Couch Surfing Website as my DJS09 Submission. 
 
-**🚨 Note: You will need to make GitHub commits to your project after each lesson in the Scrimba walkthrough, showing that you have followed along with the lessons.**
 
-Make sure to submit your project on the LMS Project Tab [DJS09] 
+# Elements included 
+- Typescript dependencies 
+- Typescript node modules
+- imports and exports
+- querySelectors 
+
+# Reflections 
+
+### Areas of mastery 
+- There were no areas of mastery that I could currently confidently recall 
+
+### Challenges faced 
+- I had a lot of issues that rendered errors when installing typescript dependencies and all the accompanying elements 
+
+### Areas of Improvement 
+- One area of improvement I would like to focus on would be the installation of typescript onto my VScode 
+
+## Overall learning experience
